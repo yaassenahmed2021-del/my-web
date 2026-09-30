@@ -1,0 +1,9 @@
+{
+  "name": "talentflow-soft",
+  "version": "1.0.0",
+  "private": true,
+  "description": "موقع TalentFlow Soft مع مجتمع وتسجيل دخول، بيانات مشتركة عبر Vercel KV",
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
